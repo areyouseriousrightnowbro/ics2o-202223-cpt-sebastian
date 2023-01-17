@@ -1,5 +1,5 @@
 {
-    "name": "ICS2O 2022/23 CPT Starter",
+    "name": "ICS2O 2022/23 CPT Starter Sebastian",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -23,5 +23,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
